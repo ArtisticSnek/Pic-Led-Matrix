@@ -1,0 +1,31 @@
+imagePixelMap:
+brw
+retlw 00h
+retlw 01h
+retlw 02h
+retlw 03h
+retlw 04h
+retlw 05h
+retlw 06h
+retlw 07h
+retlw 10h
+retlw 17h
+retlw 20h
+retlw 27h
+retlw 30h
+retlw 37h
+retlw 40h
+retlw 47h
+retlw 50h
+retlw 57h
+retlw 60h
+retlw 67h
+retlw 70h
+retlw 71h
+retlw 72h
+retlw 73h
+retlw 74h
+retlw 75h
+retlw 76h
+retlw 77h
+retlw 0FFh
